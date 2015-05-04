@@ -1,0 +1,33 @@
+{
+  "name": "bceventjs",
+  "version": "1.0.0",
+  "description": "bceventjs is a lightweight framework focused on DOM event broadcasting",
+  "main": "bcevent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brendonco/bceventjs.git"
+  },
+  "keywords": [
+    "eventjs",
+    "events",
+    "event",
+    "javascript",
+    "broadcast",
+    "emit",
+    "emitter",
+    "eventsjs",
+    "on"
+  ],
+  "author": "Brendon Co",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brendonco/bceventjs/issues"
+  },
+  "homepage": "https://github.com/brendonco/bceventjs",
+  "devDependencies": {
+    "unit.js": "^2.0.0"
+  }
+}
