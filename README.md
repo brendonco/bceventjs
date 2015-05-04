@@ -1,4 +1,6 @@
-# bceventjs - is a lightweight framework focused on DOM event broadcasting.
+### bceventjs - is a lightweight framework focused on DOM event broadcasting.
+
+#### Usage:
 
 ```
 var bcevent = require("bceventjs").bcevent,
