@@ -1,4 +1,4 @@
-### bceventjs - is a lightweight framework focused on DOM event broadcasting.
+### bceventjs - is an ES5 lightweight framework focused on DOM event broadcasting.
 
 ### Installation:
 $ npm install bceventjs --save-dev
